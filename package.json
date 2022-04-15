@@ -1,0 +1,22 @@
+{
+  "name": "starting-with-typescript-exercise",
+  "version": "1.0.0",
+  "description": "The template repository for the starting-with-typescript course on Learning Lab.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hammadhz/starting-with-typescript-exercise.git"
+  },
+  "author": "Hammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hammadhz/starting-with-typescript-exercise/issues"
+  },
+  "homepage": "https://github.com/hammadhz/starting-with-typescript-exercise#readme",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  }
+}
